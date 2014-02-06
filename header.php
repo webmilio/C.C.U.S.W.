@@ -4,10 +4,14 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css">
 <title><?php global $websitename; echo $websitename; ?></title>
-<div id="navbar""> 
-	<ul style="margin-top:2px;">
+<div id="navbar"">
+	<center>
+	<ul>
+    <li style="position:relative;bottom:2px;"><b><span style="color:white;"><?php echo $websitename; ?></span></b></li><br/>
     <li><a href="/index.php">Index</a></li> 
     <li><a href="/annexe.php">Annexe</a></li> 
     <li><a href="/bibliographie.php">Bibliographie</a></li> 
-	</ul> 
-</div> 
+	</ul>
+    </center>
+</div>
+<body>

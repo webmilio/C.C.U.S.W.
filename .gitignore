@@ -1,3 +1,6 @@
+# Build and Release Folders
+_notes/
+
 # Object files
 *.o
 *.ko

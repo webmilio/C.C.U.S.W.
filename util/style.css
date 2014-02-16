@@ -2,8 +2,11 @@ p{margin-left:20px; margin-right:20px;}
 a:biblio{margin-left:20px; margin-right:20px;}
 .spoiler{margin-left:20px; margin-right:20px;}
 h1{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+.subtitle{margin-left:20px; margin-right:20px;}
 h2{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 h3{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h4{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h5{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
 a:hover {color: #000000;}
 #slink a:hover
 {

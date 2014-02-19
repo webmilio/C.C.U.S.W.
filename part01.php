@@ -6,4 +6,8 @@
 
 <h3 class="subtitle"><u>&lt;head&gt;</u></h3>
 <p>Tout cela est fort bien, mais la page n'affiche toujours aucun texte, image, ou quoi que ce soit! Alors nous devons passer &agrave; l'&eacute;tape suivante: la balise <code>&lt;head&gt;</code>. C'est dans &laquo; dans &raquo; ces balises que sont d&eacute;finies les mots-cl&eacute;s utiles aux moteurs de cherche, le titre de la page (qui apparait sur l'onglet de la page dans votre navigateur internet) ainsi que le style de la page, etc...
+Votre fichier devrait donc ressembler a ce&ccedil;i:<?php spoiler("<code>&lt;html&gt;<br />&lt;head&gt;<br />&lt;/head&gt;<br />&lt;/html&gt;</code>"); ?></p><p>Si ce n'est pas le cas, vous pouvez copier ces deux lignes dans votre fichier et cela fera l'affaire.</p>
+
+<h3 class="subtitle"><u>&lt;body&gt;</u></h3>
+<p>Les balises <code>&lt;body&gt;</code> et <code>&lt;/body&gt;</code> disent au navigateur ou commence l'essentiel de la page web et ou il se termine. C'est &laquo; dans &raquo; ces balises que ce retrouve le contenu de la page.Votre fichier devrait donc ressembler a ce&ccedil;i:<?php spoiler("<code>&lt;html&gt;<br />&lt;head&gt;<br />&lt;body&gt;<br />&lt;/body&gt;<br />&lt;/head&gt;<br />&lt;/html&gt;</code>"); ?></p>
 <?php include "footer.php"; ?>
